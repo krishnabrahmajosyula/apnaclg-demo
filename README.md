@@ -4,3 +4,5 @@ Repository while learning git and github.
 author- Sai Krishna(first)
 <br>
 git commit command is used
+<br>
+check using vs code
